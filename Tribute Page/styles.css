@@ -1,0 +1,38 @@
+
+  .container {
+      display: flex;
+      /* height: 100%; */
+      max-width: 1200px;
+      margin: auto;
+      /* height: 100vh; */
+    }
+    
+    .left-container {
+      background-color: #FEFEFE;
+      width: 35%;
+      padding: 0 50px; 
+    }
+    
+    .right-container {
+      background-color: rgb(171, 171, 171);
+      color: #ffffff;
+      /* flex: 0 0 65%; */
+      width: 65%;
+      padding: 0 1.5rem;
+      min-height: 1000px;
+    }
+  h1 {
+      text-align: center;
+     }
+  #image{
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+  }
+  img {
+      display: block;
+  }
+.tribute-info {
+  max-width: 1200px;
+  margin: 20px auto;
+}  
